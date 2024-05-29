@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maxxmuthu&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmuthu&layout=pie&theme=merko)]
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmuthu&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
