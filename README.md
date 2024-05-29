@@ -16,8 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko" alt="maxxmuthu" /></p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maxxmuthu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maxxmuthu&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
