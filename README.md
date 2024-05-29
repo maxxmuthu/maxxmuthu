@@ -16,10 +16,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko" alt="maxxmuthu" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&hide=issues,contribs&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maxxmuthu&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=maxxmuthu&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
