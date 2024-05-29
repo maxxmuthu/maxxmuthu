@@ -21,6 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maxxmuthu&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
