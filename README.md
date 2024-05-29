@@ -10,13 +10,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=maxxmuthu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&hide=issues,contribs&show_icons=true&theme=merko)
+# ![](https://github-readme-stats-sigma-five.vercel.app/api?username=maxxmuthu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmuthu&layout=pie&theme=merko)](https://github.com/maxxmuthu/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko" alt="maxxmuthu" /></p>
+# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko" alt="maxxmuthu" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&hide=issues,contribs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&hide=issues,contribs&show_icons=true&theme=merko)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maxxmuthu&theme=merko&no-frame=false&no-bg=true&margin-w=4)
