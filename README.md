@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=maxxmuthu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&show_icons=true&theme=merko&include_all_commits=true&count_private=true))
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko" alt="maxxmuthu" /></p>
 
