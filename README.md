@@ -14,6 +14,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&show_icons=true&theme=merko&include_all_commits=true&count_private=true))
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxmuthu&hide=contribs,prs)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko" alt="maxxmuthu" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmuthu&layout=pie&theme=merko)](https://github.com/maxxmuthu/github-readme-stats)
