@@ -13,7 +13,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=maxxmuthu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maxxmuthu&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxxmuthu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
